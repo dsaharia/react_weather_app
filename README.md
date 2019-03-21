@@ -1,5 +1,5 @@
 <h2 align="center">Simple React Weather App </h2>
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/uses-js.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)[![forthebadge](https://forthebadge.com/images/badges/uses-js.svg)](https://forthebadge.com)
 
 For a quick [DEMO](https://dsaharia.github.io/react_weather_app/)
 ### Tools used -
